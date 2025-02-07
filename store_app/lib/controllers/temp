@@ -1,0 +1,7 @@
+Controllers: This will act as the intermediary between models and views.  They handle user input,
+fetch data from models, and update the views accordingly.  They contain the application logic.  
+
+ProductController: Handles fetching product details, adding products to the cart, etc.
+StoreController: Handles fetching products for a specific store, filtering products, etc.
+UserController: Handles user authentication, managing user profiles, etc.
+OrderController: Handles creating new orders, tracking order status, etc.

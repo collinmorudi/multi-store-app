@@ -1,0 +1,6 @@
+Views: These are the user interfaces, what the user sees and interacts with. 
+
+ProductDetailsScreen: Displays information about a specific product.
+StoreHomeScreen: Shows products from a particular store.
+ShoppingCartScreen: Displays the user's current shopping cart.
+CheckoutScreen: Handles the checkout process.

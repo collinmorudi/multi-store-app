@@ -1,0 +1,6 @@
+Models: This will represent the data and business logic of your application. 
+
+Product: Attributes like name, description, price, images category, store ID, etc.
+Store: Attributes like name, address, owner, products (a list of Product models), etc.
+User: Attributes like username, email, password, address, orders (a list of Order models), etc.
+Order: Attributes like items (a list of Product models and quantities), total price, user ID, order date, etc.
